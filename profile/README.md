@@ -202,10 +202,31 @@
 # 💾 Directory Structure
 
 <details>
-    <summary>Algo.com-Docker</summary>
+    <summary>Algo.com-Infra</summary>
 <pre>
 <code>
-zz
+
+📦 Algo.com-Infra
+ ┣ 📂.github
+ ┃ ┣ 📂ISSUE_TEMPLATE
+ ┃ ┃ ┣ 📜chore.md
+ ┃ ┃ ┣ 📜design.md
+ ┃ ┃ ┣ 📜feat.md
+ ┃ ┃ ┣ 📜fix.md
+ ┃ ┃ ┣ 📜refactor.md
+ ┃ ┃ ┗ 📜pull_request_template.md
+ ┣ 📂nginx
+ ┃ ┣ 📜Dockerfile
+ ┃ ┣ 📜nginx.conf
+ ┃ ┗ 📂prometheus
+ ┃ ┃ ┗ 📜prometheus.yml
+ ┣ 📜.gitignore
+ ┣ 📜.gitmodules
+ ┣ 📜README.md
+ ┣ 📜docker-compose.monitoring.yml
+ ┣ 📜docker-compose.yml
+ ┗ 📜init-letsencrypt.sh
+
 </code>
 </pre>
 </details>
