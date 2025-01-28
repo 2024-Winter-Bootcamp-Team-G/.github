@@ -214,7 +214,60 @@ zz
     <summary>Algo.com-Frontend</summary>
 <pre>
 <code>
-zz
+  
+📦 Algo.com-Frontend
+ ┣ 📂.github
+ ┣ 📂node_modules
+ ┣ 📂src
+ ┃ ┣ 📂api
+ ┃ ┃ ┣ 📜axios_config.js
+ ┃ ┃ ┣ 📜board.js
+ ┃ ┣ 📂assets
+ ┃ ┣ 📂components
+ ┃ ┃ ┣ 📜Background.jsx
+ ┃ ┃ ┣ 📜Button.jsx
+ ┃ ┃ ┣ 📜Input.jsx
+ ┃ ┃ ┣ 📜Loading.jsx
+ ┃ ┃ ┣ 📜Match.jsx
+ ┃ ┃ ┣ 📜Mbutton.jsx
+ ┃ ┃ ┣ 📜MiniHomp.jsx
+ ┃ ┃ ┣ 📜Mpopup.jsx
+ ┃ ┃ ┣ 📜RadarChartCompo.jsx
+ ┃ ┃ ┣ 📜Select.jsx
+ ┃ ┃ ┣ 📜VennDiagram.jsx
+ ┃ ┃ ┣ 📜Window.jsx
+ ┃ ┃ ┗ 📜Window2.jsx
+ ┃ ┣ 📂pages
+ ┃ ┃ ┣ 📜Board.jsx
+ ┃ ┃ ┣ 📜Home.jsx
+ ┃ ┃ ┣ 📜Login.jsx
+ ┃ ┃ ┣ 📜MiniH.jsx
+ ┃ ┃ ┣ 📜Notice.jsx
+ ┃ ┃ ┣ 📜Share.jsx
+ ┃ ┃ ┣ 📜SignUp.jsx
+ ┃ ┃ ┣ 📜Start.jsx
+ ┃ ┃ ┗ 📜TestPage.jsx
+ ┃ ┣ 📂styles
+ ┃ ┃ ┣ 📜cursor.css
+ ┃ ┃ ┣ 📜index.css
+ ┃ ┃ ┗ 📜scrollbar.css
+ ┃ ┣ 📂utils
+ ┃ ┃ ┣ 📜cookie.js
+ ┃ ┃ ┗ 📜helpers.js
+ ┃ ┣ 📜App.jsx
+ ┃ ┗ 📜main.jsx
+ ┣ 📜.env
+ ┣ 📜.gitignore
+ ┣ 📜.prettierrc
+ ┣ 📜eslint.config.js
+ ┣ 📜index.html
+ ┣ 📜package.json
+ ┣ 📜postcss.config.js
+ ┣ 📜README.md
+ ┣ 📜tailwind.config.js
+ ┣ 📜vite.config.js
+ ┗ 📜yarn.lock
+
 </code>
 </pre>
 </details>
@@ -223,7 +276,65 @@ zz
     <summary>Algo.com-Backend</summary>
 <pre>
 <code>
-zz
+
+📦 Algo.com-Backend
+ ┣ 📂.github
+ ┣ 📂app
+ ┃ ┣ 📂models
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜board.py
+ ┃ ┃ ┗ 📜user.py
+ ┃ ┣ 📂routes
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜auth.py
+ ┃ ┃ ┣ 📜board.py
+ ┃ ┃ ┣ 📜celery_tasks.py
+ ┃ ┃ ┣ 📜profile.py
+ ┃ ┃ ┣ 📜share.py
+ ┃ ┃ ┣ 📜subscriptions.py
+ ┃ ┃ ┗ 📜user.py
+ ┃ ┣ 📂schemas
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜board.py
+ ┃ ┃ ┗ 📜user.py
+ ┃ ┣ 📂services
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜board_service.py
+ ┃ ┃ ┣ 📜celery_tasks.py
+ ┃ ┃ ┣ 📜channel_service.py
+ ┃ ┃ ┣ 📜google_service.py
+ ┃ ┃ ┗ 📜user_service.py
+ ┃ ┣ 📂tests
+ ┃ ┃ ┣ 📜__init__.py
+ ┃ ┃ ┣ 📜test_boards.py
+ ┃ ┃ ┣ 📜test_dalle.py
+ ┃ ┃ ┣ 📜test_gcs.py
+ ┃ ┃ ┣ 📜test_redis.py
+ ┃ ┃ ┣ 📜test_regenerate.py
+ ┃ ┃ ┣ 📜test_share.py
+ ┃ ┃ ┗ 📜test_signup.py
+ ┃ ┗ 📜main.py
+ ┣ 📂utils
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜celery_app.py
+ ┃ ┣ 📜dalle_handler.py
+ ┃ ┣ 📜gcs_handler.py
+ ┃ ┣ 📜gpt_handler.py
+ ┃ ┣ 📜jwt_handler.py
+ ┃ ┣ 📜redis_handler.py
+ ┃ ┣ 📜time.py
+ ┃ ┣ 📜utils.py
+ ┃ ┣ 📜config.py
+ ┃ ┣ 📜db.py
+ ┃ ┗ 📜init_db.py
+ ┣ 📜.env
+ ┣ 📜.gitignore
+ ┣ 📜docker-compose.yaml
+ ┣ 📜Dockerfile
+ ┣ 📜gcp-key.json
+ ┣ 📜README.md
+ ┗ 📜requirements.txt
+
 </code>
 </pre>
 </details>
