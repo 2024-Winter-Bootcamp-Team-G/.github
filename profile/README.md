@@ -1,5 +1,8 @@
-<h1 align="center"> 📋 Algo.com 📋 </h1>
+<h4 align="center">☃️ 2024 Techeer Winter BootCamp Team-G ☃️</h4>
+<h1 align="center"> 🔎 Algo.com 🔍 </h1>
 <div align="center">
+<h3><b>Algo.com을 통해 당신이 몰랐던 취향을 알아가 보세요!</b></h3><br>
+<img width="1503" src="https://github.com/user-attachments/assets/dc916a21-41f5-4927-b0bf-89c8a1553df7">
 
 <br>
 
@@ -41,7 +44,10 @@
 <br>
 
 # 📗 API
+ <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/4cceb8bf-0247-4ca2-a77d-1de0a5ddb43e">
+ <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/57a212e2-b5ff-4ddb-9a02-3af2b1b40409">
 
+ 
 <br><br>
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
@@ -103,9 +109,18 @@
       </td>
     </tr>
     <tr>
+      <td><b>Monitoring</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
+        <img src="https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black">
+      </td>
+    </tr>
+    <tr>
       <td><b>AI</b></td>
       <td>
         <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/DALL·E-1192e8?style=for-the-badge&logo=openai&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -126,7 +141,31 @@
 
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
-
+  <table>
+        <tr>
+            <th colspan="2">FastAPI</th>
+        </tr>
+        <tr>
+            <td><img src="" alt="FastAPI"></td>
+            <td><img src="" alt="FastAPI2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">Celery</th>
+        </tr>
+        <tr>
+            <td><img src="" alt="Celery"></td>
+            <td><img src="" alt="Celery2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">cAdvisor</th>
+        </tr>
+        <tr>
+            <td><img src="" alt="cAdvisor"></td>
+            <td><img src="" alt="cAdvisor2"></td>
+        </tr>
+    </table>
+  
+  
 </div>
 
 <br>
