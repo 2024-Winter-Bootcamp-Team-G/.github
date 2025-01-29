@@ -102,10 +102,10 @@
     <tr>
       <td><b>DB</b></td>
       <td>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/google%20cloud%20storage-%23AECBFA.svg?&style=for-the-badge&logo=googlecloudstorage&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Compute%20Engine-%234285F4.svg?&style=for-the-badge&logo=googlecomputeengine&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@
       <td>
         <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black">
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
-        <img src="https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black">
+        <img src="https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logo=cadvisor&Color=black">
       </td>
     </tr>
     <tr>
@@ -131,6 +131,7 @@
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=black">
         <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
       </td>
     </tr>
   </table>
