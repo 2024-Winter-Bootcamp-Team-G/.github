@@ -45,7 +45,7 @@
 
 # 📗 API
  <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/4cceb8bf-0247-4ca2-a77d-1de0a5ddb43e">
- <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/57a212e2-b5ff-4ddb-9a02-3af2b1b40409">
+ <img align="center" width="1000" alt="charts" src="https://github.com/user-attachments/assets/bdfaa090-35c7-4f94-9f55-da6b9b452fd8">
 
  
 <br><br>
@@ -97,6 +97,8 @@
         <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Compute%20Engine-%234285F4.svg?&style=for-the-badge&logo=googlecomputeengine&logoColor=white" />
+        <img src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -105,7 +107,7 @@
         <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/google%20cloud%20storage-%23AECBFA.svg?&style=for-the-badge&logo=googlecloudstorage&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Compute%20Engine-%234285F4.svg?&style=for-the-badge&logo=googlecomputeengine&logoColor=white" />
+        <img src="https://img.shields.io/badge/cloud%20sql-1479FF?style=for-the-badge&logo=cadvisor&Color=black">
       </td>
     </tr>
     <tr>
