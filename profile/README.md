@@ -40,6 +40,34 @@
 <br>
 
 # 🖼️ Demo
+### Login & Sign up
+> 회원가입 및 로그인하는 페이지입니다.
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/a19e485d-de4d-42fc-8af5-c62ed60242a9">
+<br><br>
+
+### Create Board
+> 보드를 생성하는 과정입니다.
+<img align="center" width="1000" alt="Create Board" src="https://github.com/user-attachments/assets/6fa28488-b6b8-4e40-9024-0f2e100c1496">
+<br><br>
+
+### Regenerate Image
+> 이미지를 재생성하는 과정입니다.
+<img align="center" width="1000" alt="Regenerate Image" src="https://github.com/user-attachments/assets/f1898ceb-9fb7-4646-ad59-5927fe36deeb">
+<br><br>
+
+### Regenerate Keywords
+> 키워드를 재생성하는 과정입니다.
+<img align="center" width="1000" alt="Regenerate Keywords" src="https://github.com/user-attachments/assets/4d0b4519-1c82-425d-9cb2-a14ce012afed">
+<br><br>
+
+### Share Board & Screenshot
+> 보드 공유 및 스크린샷을 하는 과정입니다.
+<img align="center" width="1000" alt="Share Board & Screenshot" src="https://github.com/user-attachments/assets/0e4940b2-d2b0-47d9-ab0c-8ed77a56a92d">
+<br><br>
+
+> 스크린샷된 이미지입니다.
+<img align="center" width="800" alt="Screenshot" src="https://github.com/user-attachments/assets/31defaef-1d55-4c6c-8543-80e5a6f63360">
+<br><br>
 
 <br>
 
