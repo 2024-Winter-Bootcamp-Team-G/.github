@@ -468,10 +468,10 @@ FRONTEND_URL=
   </tr>
   <tr>
     <th>Profile</th>
-      <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/d4fdac9b-5838-47ff-b351-c9e24948d67a" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/7626b55d-d780-4290-bb25-c02501238ef3" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/e5ed3be1-7097-431c-8c0f-841b00262046" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/704d9a8d-5f91-46ea-ab0d-6da081c5b0f1" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/7e2c37a3-52fc-447e-b51d-3fd33008c2ed" style="width:100px;height:100px;"></td>
   </tr>
   <tr>
