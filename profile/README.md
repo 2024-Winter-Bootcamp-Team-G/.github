@@ -26,16 +26,16 @@
 
 # 📣 Introduction
 ### URL
-> 🖥️ 
+> 🖥️ [Algo.com](https://algorify.net)
 
 ### Medium
 > 🔎 
 
 <br>
 
-- **웹 서비스 설명**
-- **웹 서비스 설명**
-- **웹 서비스 설명**
+- **자신을 표현하는 데 있어 사용할 수 있는 수단에는 무엇이 있나요?**
+- **"나 자신도 알지 못하는 나의 아이덴티티를 표현할 수 있는 방법이 있다면 어떨까?"에서 시작한 프로젝트**
+- **전세계에서 약 26억명의 이용자를 보유한 유튜브를 활용한 개인화 분석 서비스**
 
 <br>
 
@@ -178,22 +178,114 @@
 
 ### 1. Clone The Repository
 ```
-
+https://github.com/2024-Winter-Bootcamp-Team-G/infra.git
 ```
-### 2. ENV Setting In The MVStudio-Docker Folder
+### 2. ENV Setting In The Algo.com-Infra Folder
 * .env
 ```
+APP_NAME=
 
+# PostgreSQL
+#DATABASE_URL=
+#POSTGRES_DB=
+#POSTGRES_PASSWORD=
+
+#cloud sql
+DATABASE_URL=
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_SSLMODE=
+POSTGRES_HOST=
+POSTGRES_PORT=
+#POSTGRES_SSLMODE=
+
+# Redis
+REDIS_HOST=
+REDIS_PORT=
+
+# RabbitMQ
+RABBITMQ_DEFAULT_USER=
+RABBITMQ_DEFAULT_PASS=
+RABBITMQ_HOST=
+RABBITMQ_PORT=
+
+# Celery
+CELERY_BROKER_URL=
+CELERY_RESULT_BACKEND=
+CELERY_BROKER_CONNECTION_MAX_RETRIES=
+
+# OpenAI
+OPENAI_API_KEY=
+
+# GCP
+GCP_BUCKET_NAME=
+GOOGLE_APPLICATION_CREDENTIALS=
+
+# JWT
+SECRET_KEY=
+ALGORITHM=
+ACCESS_TOKEN_EXPIRE_MINUTES=
+REFRESH_TOKEN_EXPIRE_MINUTES=
+
+# YouTube Data API
+CLIENT_ID=
+CLIENT_SECRET=
+REDIRECT_URI=h
+API_KEY=
+
+FRONTEND_URL=
 ```
-
+* Algo.com-Frontend/.env
 ```
-# 개발 서버 주소
-
-
+# 배포용 환경변수
+VITE_BASE_URL=
 ```
-
+* Algo.com-Backend/.env
 ```
+APP_NAME=
 
+# PostgreSQL
+DATABASE_URL=
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+
+# Redis
+REDIS_HOST=
+REDIS_PORT=
+
+# RabbitMQ
+RABBITMQ_DEFAULT_USER=
+RABBITMQ_DEFAULT_PASS=
+RABBITMQ_HOST=
+RABBITMQ_PORT=
+
+# Celery
+CELERY_BROKER_URL=
+CELERY_RESULT_BACKEND=
+CELERY_BROKER_CONNECTION_MAX_RETRIES=
+
+# OpenAI
+OPENAI_API_KEY=
+
+# GCP
+GCP_BUCKET_NAME=
+GOOGLE_APPLICATION_CREDENTIALS=
+
+# JWT
+SECRET_KEY=
+ALGORITHM=
+ACCESS_TOKEN_EXPIRE_MINUTES=
+REFRESH_TOKEN_EXPIRE_MINUTES=
+
+# YouTube Data API
+CLIENT_ID=
+CLIENT_SECRET=
+REDIRECT_URI=
+API_KEY=
+
+FRONTEND_URL=
 ```
 <br>
 
@@ -270,8 +362,7 @@
  ┃ ┃ ┣ 📜Notice.jsx
  ┃ ┃ ┣ 📜Share.jsx
  ┃ ┃ ┣ 📜SignUp.jsx
- ┃ ┃ ┣ 📜Start.jsx
- ┃ ┃ ┗ 📜TestPage.jsx
+ ┃ ┃ ┗ 📜Start.jsx
  ┃ ┣ 📂styles
  ┃ ┃ ┣ 📜cursor.css
  ┃ ┃ ┣ 📜index.css
@@ -378,10 +469,10 @@
   <tr>
     <th>Profile</th>
       <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/7626b55d-d780-4290-bb25-c02501238ef3" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/e5ed3be1-7097-431c-8c0f-841b00262046" style="width:100px;height:100px;"></td>
       <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/98514c78-376f-4260-84fd-b716aca055d8" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
-      <td style="text-align:center; vertical-align:middle;"><img src="" style="width:100px;height:100px;"></td>
+      <td style="text-align:center; vertical-align:middle;"><img src="https://github.com/user-attachments/assets/7e2c37a3-52fc-447e-b51d-3fd33008c2ed" style="width:100px;height:100px;"></td>
   </tr>
   <tr>
     <th>Role</th>
