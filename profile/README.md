@@ -29,7 +29,7 @@
 > 🖥️ [Algo.com](https://algorify.net)
 
 ### Medium
-> 🔎 
+> 🔎 [Medium](https://medium.com/@jongmine.ch/project-discover-yourself-through-data-algo-com-335c8cbd1dc2)
 
 <br>
 
@@ -52,13 +52,17 @@
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 
+<div align="center">
+  <img width="1000" src="https://github.com/user-attachments/assets/61cb348f-5e81-4327-bafb-1108a10876ef">
+</div>
 <br><br>
 
 # 🔑 ERD
 <div align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/d2db98e1-9106-459e-9f0b-d2809e934471">
+  <img width="1000" src="https://github.com/user-attachments/assets/dcedec93-11a5-4a09-a846-20522974e51c">
 </div>
 <br><br>
+
 
 # 💻 Tech Stack
 
