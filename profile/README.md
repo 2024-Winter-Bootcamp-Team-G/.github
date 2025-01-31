@@ -26,7 +26,7 @@
 
 # 📣 Introduction
 ### URL
-> 🖥️ [Algrify.net](https://algorify.net)
+> 🖥️ [Algorify.net](https://algorify.net)
 
 ### Medium
 > 🔎 [Medium](https://medium.com/@jongmine.ch/project-discover-yourself-through-data-algo-com-335c8cbd1dc2)
@@ -81,7 +81,7 @@
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 
 <div align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/61cb348f-5e81-4327-bafb-1108a10876ef">
+  <img width="1000" src="https://github.com/user-attachments/assets/e1dc016b-9cce-44ce-976c-b72737224974">
 </div>
 <br><br>
 
