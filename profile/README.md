@@ -2,7 +2,7 @@
 <h1 align="center"> 🔎 Algorify.net 🔍 </h1>
 <div align="center">
 <h3><b>Algorify.net을 통해 당신이 몰랐던 취향을 알아가 보세요!</b></h3><br>
-<img width="1000" src="https://github.com/user-attachments/assets/8ab202a7-75c4-48ee-b249-623a9c6facaa">
+<img width="800" src="https://github.com/user-attachments/assets/8ab202a7-75c4-48ee-b249-623a9c6facaa">
 
 <br>
 
