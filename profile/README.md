@@ -179,20 +179,24 @@
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   <table>
-        <tr>
-            <th colspan="2">FastAPI</th>
-        </tr>
-        <tr>
-            <td><img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/8f99982b-d4c2-41a4-9edd-0d079dd95cae/Screenshot_2025-01-31_at_8.36.23_PM.png?table=block&id=5ceb6248-da22-4ac8-8b65-ac71aa6ea0f7&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=H0Bapbm6xebGwcpcQkIOmNSTzLAAwm6ID1on79nn6ts&downloadName=Screenshot+2025-01-31+at+8.36.23%E2%80%AFPM.png" alt="FastAPI"></td>
-        </tr>
-        <tr>
-            <th colspan="2">cAdvisor</th>
-        </tr>
-        <tr>
-            <td><img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/0a65d567-399f-423f-bd94-d8aeed08e6ca/Screenshot_2025-01-31_at_8.30.58_PM.png?table=block&id=5bc8baf9-951e-4ba5-af3f-6c1caa820bc0&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=oMhlluRkTg2lY1MMjRHWz-Vb7loUYgynE6Qv1pnwq6Y&downloadName=Screenshot+2025-01-31+at+8.30.58%E2%80%AFPM.png" alt="cAdvisor"></td>
-            <td><img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/188e22ef-6d5a-41bb-823e-a45ccbd2187a/Screenshot_2025-01-31_at_8.31.23_PM.png?table=block&id=729477f1-4a8e-4ab5-9c84-d7857127127a&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=M6DAF_pH13rtpdcJmBEh2--FDp-_Lv228Jn_d9U_mjg&downloadName=Screenshot+2025-01-31+at+8.31.23%E2%80%AFPM.png" alt="cAdvisor2"></td>
-        </tr>
-    </table>
+    <tr>
+        <th>FastAPI</th>
+    </tr>
+    <tr>
+        <td><img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/8f99982b-d4c2-41a4-9edd-0d079dd95cae/Screenshot_2025-01-31_at_8.36.23_PM.png?table=block&id=5ceb6248-da22-4ac8-8b65-ac71aa6ea0f7&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=H0Bapbm6xebGwcpcQkIOmNSTzLAAwm6ID1on79nn6ts&downloadName=Screenshot+2025-01-31+at+8.36.23%E2%80%AFPM.png" alt="FastAPI"></td>
+    </tr>
+    <tr>
+        <th>cAdvisor</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/0a65d567-399f-423f-bd94-d8aeed08e6ca/Screenshot_2025-01-31_at_8.30.58_PM.png?table=block&id=5bc8baf9-951e-4ba5-af3f-6c1caa820bc0&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=oMhlluRkTg2lY1MMjRHWz-Vb7loUYgynE6Qv1pnwq6Y&downloadName=Screenshot+2025-01-31+at+8.30.58%E2%80%AFPM.png" alt="cAdvisor">
+            <br>
+            <img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/188e22ef-6d5a-41bb-823e-a45ccbd2187a/Screenshot_2025-01-31_at_8.31.23_PM.png?table=block&id=729477f1-4a8e-4ab5-9c84-d7857127127a&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=M6DAF_pH13rtpdcJmBEh2--FDp-_Lv228Jn_d9U_mjg&downloadName=Screenshot+2025-01-31+at+8.31.23%E2%80%AFPM.png" alt="cAdvisor2">
+        </td>
+    </tr>
+</table>
+
   
   
 </div>
