@@ -183,15 +183,7 @@
             <th colspan="2">FastAPI</th>
         </tr>
         <tr>
-            <td><img src="" alt="FastAPI"></td>
-            <td><img src="" alt="FastAPI2"></td>
-        </tr>
-        <tr>
-            <th colspan="2">Celery</th>
-        </tr>
-        <tr>
-            <td><img src="" alt="Celery"></td>
-            <td><img src="" alt="Celery2"></td>
+            <td><img src="https://file.notion.so/f/f/959614ba-fb9b-47d8-8863-31aec2c4131e/8f99982b-d4c2-41a4-9edd-0d079dd95cae/Screenshot_2025-01-31_at_8.36.23_PM.png?table=block&id=5ceb6248-da22-4ac8-8b65-ac71aa6ea0f7&spaceId=959614ba-fb9b-47d8-8863-31aec2c4131e&expirationTimestamp=1738353600000&signature=H0Bapbm6xebGwcpcQkIOmNSTzLAAwm6ID1on79nn6ts&downloadName=Screenshot+2025-01-31+at+8.36.23%E2%80%AFPM.png" alt="FastAPI"></td>
         </tr>
         <tr>
             <th colspan="2">cAdvisor</th>
