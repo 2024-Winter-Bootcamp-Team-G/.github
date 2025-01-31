@@ -264,6 +264,11 @@ REDIRECT_URI=h
 API_KEY=
 
 FRONTEND_URL=
+REDIRECT_URI=
+
+#grafana
+grafana_user=
+grafana_password=
 ```
 * Algrify.net-Frontend/.env
 ```
