@@ -42,7 +42,7 @@
 # 🖼️ Demo
 ### Login & Sign up
 > 회원가입 및 로그인하는 페이지입니다.
-<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/a19e485d-de4d-42fc-8af5-c62ed60242a9">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/6142d651-29bc-443f-b38a-551ee8a8620e">
 <br><br>
 
 ### Create Board
