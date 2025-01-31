@@ -1,7 +1,7 @@
 <h4 align="center">☃️ 2024 Techeer Winter BootCamp Team-G ☃️</h4>
-<h1 align="center"> 🔎 Algo.com 🔍 </h1>
+<h1 align="center"> 🔎 Algorify.net 🔍 </h1>
 <div align="center">
-<h3><b>Algo.com을 통해 당신이 몰랐던 취향을 알아가 보세요!</b></h3><br>
+<h3><b>Algorify.net을 통해 당신이 몰랐던 취향을 알아가 보세요!</b></h3><br>
 <img width="1503" src="https://github.com/user-attachments/assets/dc916a21-41f5-4927-b0bf-89c8a1553df7">
 
 <br>
@@ -26,7 +26,7 @@
 
 # 📣 Introduction
 ### URL
-> 🖥️ [Algo.com](https://algorify.net)
+> 🖥️ [Algrify.net](https://algorify.net)
 
 ### Medium
 > 🔎 [Medium](https://medium.com/@jongmine.ch/project-discover-yourself-through-data-algo-com-335c8cbd1dc2)
@@ -213,7 +213,7 @@
 ```
 https://github.com/2024-Winter-Bootcamp-Team-G/infra.git
 ```
-### 2. ENV Setting In The Algo.com-Infra Folder
+### 2. ENV Setting In The Algorify.net-Infra Folder
 * .env
 ```
 APP_NAME=
@@ -269,12 +269,12 @@ API_KEY=
 
 FRONTEND_URL=
 ```
-* Algo.com-Frontend/.env
+* Algrify.net-Frontend/.env
 ```
 # 배포용 환경변수
 VITE_BASE_URL=
 ```
-* Algo.com-Backend/.env
+* Algorify.net-Backend/.env
 ```
 APP_NAME=
 
@@ -324,18 +324,18 @@ FRONTEND_URL=
 
 ### 3. Run Docker
 ```
-
+cd frontend && yarn && yarn dev && cd backend && docker-compose up --build
 ```
 <br>
 
 # 💾 Directory Structure
 
 <details>
-    <summary>Algo.com-Infra</summary>
+    <summary>Algorify.net-Infra</summary>
 <pre>
 <code>
 
-📦 Algo.com-Infra
+📦 Algorify.net-Infra
  ┣ 📂.github
  ┃ ┣ 📂ISSUE_TEMPLATE
  ┃ ┃ ┣ 📜chore.md
@@ -361,11 +361,11 @@ FRONTEND_URL=
 </details>
 
 <details>
-    <summary>Algo.com-Frontend</summary>
+    <summary>Algorify.net-Frontend</summary>
 <pre>
 <code>
   
-📦 Algo.com-Frontend
+📦 Algorify.net-Frontend
  ┣ 📂.github
  ┣ 📂node_modules
  ┣ 📂src
@@ -422,11 +422,11 @@ FRONTEND_URL=
 </details>
 
 <details>
-    <summary>Algo.com-Backend</summary>
+    <summary>Algorify.net-Backend</summary>
 <pre>
 <code>
 
-📦 Algo.com-Backend
+📦 Algorify.net-Backend
  ┣ 📂.github
  ┣ 📂app
  ┃ ┣ 📂models
